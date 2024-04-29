@@ -3,10 +3,12 @@
 This github repository contains the code to run a suite of 4 machine learning prediction models for Golden Gate Cloning sgRNA read count abundance in bacteria. While the use of independant data is not yet facilitated, you may run the test of the model. It will train the model and predict on the 20% test set.
 
 Four models are run by this program:
-• Multiple-linear regression
-• CNN-based deep learning
-• BGRU RNN-based deep learning
-• Hybrid CNN-BGRU RNN-based deep learning
+<ol>
+<li>• Multiple-linear regression</li>
+<li>• CNN-based deep learning</li>
+<li>• BGRU RNN-based deep learning</li>
+<li>• Hybrid CNN-BGRU RNN-based deep learning</li>
+</ol>
 
 ## Requirements
 
