@@ -4,10 +4,10 @@ This github repository contains the code to run a suite of 4 machine learning pr
 
 Four models are run by this program:
 <ol>
-<li>• Multiple-linear regression</li>
-<li>• CNN-based deep learning</li>
-<li>• BGRU RNN-based deep learning</li>
-<li>• Hybrid CNN-BGRU RNN-based deep learning</li>
+<li> Multiple-linear regression</li>
+<li> CNN-based deep learning</li>
+<li> BGRU RNN-based deep learning</li>
+<li> Hybrid CNN-BGRU RNN-based deep learning</li>
 </ol>
 
 ## Requirements
